@@ -1,0 +1,6 @@
+DrGaming\Users\User:
+  username: $string
+  email: $string@$string.com
+  password: $string
+  created_at: $date
+  updated_at: $date
